@@ -1,0 +1,31 @@
+_repo: A-Little-Norsk--Or-Ol-Pap-s-Flaxen_21850
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garland, Hamlin
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '1034'
+    url: http://www.gutenberg.org/2009/agents/1034
+    wikipedia: http://en.wikipedia.org/wiki/Hamlin_Garland
+description: This 1892 novel tells of a young orphan girl growing up in the American
+  West. Two kind bachelors take her in, but clear complications arise as a result
+  of this unconventional family.
+gutenberg_issued: '2007-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21850'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Dakota Territory -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Single fathers -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+title: A Little Norsk; Or, Ol' Pap's Flaxen
+url: http://www.gutenberg.org/ebooks/21850
